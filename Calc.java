@@ -14,7 +14,7 @@ import javafx.stage.StageStyle;
 import java.util.HashMap;
 import java.util.Map;
 
-// a simple JavaFX calculator.
+// JavaFX -- DarkDevs
 public class Calc extends Application {
   private static final String[][] template = {
       { "7", "8", "9", "/" },
